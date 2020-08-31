@@ -5,3 +5,4 @@ class AddFavoriteFoodToArtists < ActiveRecord::Migration[5.2]
   end
 #edit: IGNORE would not submit to learn.co this is just to be able to submit
 #edit2
+#edit3 WTF its not submitting
